@@ -4,9 +4,8 @@ body {
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
     Helvetica, Arial, "Lucida Grande", sans-serif;
   font-weight: 300;
-  font-size: 14px;
-  margin: 1px;
-  padding: 50px;
+  margin: 0px;
+  padding: 0px;
   touch-action: none;
   text-align: center;
   -webkit-touch-callout: none;
@@ -241,7 +240,7 @@ body {
   }
 
   #game canvas {
-    margin: 20;
+    margin: 0;
     display: block;
     width: 100% !important;
     height: auto !important;
