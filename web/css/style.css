@@ -4,8 +4,9 @@ body {
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
     Helvetica, Arial, "Lucida Grande", sans-serif;
   font-weight: 300;
+  font-size: 14px;
   margin: 20px;
-  padding: 0px;
+  padding: 50px;
   touch-action: none;
   text-align: center;
   -webkit-touch-callout: none;
