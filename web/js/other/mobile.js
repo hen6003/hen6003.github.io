@@ -1,4 +1,4 @@
-var romPath = "rom/game.gb";
+var romPath = "rom/game.gbc";
 var mainCanvas = null;
 var soundReady = false;
 
