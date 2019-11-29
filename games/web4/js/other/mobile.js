@@ -1,4 +1,4 @@
-var romPath = "rom/Megaman.gbc";
+var romPath = "rom/Mega Man Xtreme (U) [C][!].gbc";
 var mainCanvas = null;
 var soundReady = false;
 
