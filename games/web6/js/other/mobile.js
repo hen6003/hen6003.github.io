@@ -1,4 +1,4 @@
-var romPath = "rom/Megaman.gbc";
+var romPath = "rom/Legend of Zelda, The - Link's Awakening (V1.2) (U) [!].gb";
 var mainCanvas = null;
 var soundReady = false;
 
