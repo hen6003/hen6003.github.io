@@ -1,4 +1,4 @@
-var romPath = "rom/Megaman.gbc";
+var romPath = "rom/Dragon Ball Z - Legendary Super Warriors (E) [C].gbc";
 var mainCanvas = null;
 var soundReady = false;
 
