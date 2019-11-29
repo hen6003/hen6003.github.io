@@ -1,4 +1,4 @@
-var romPath = "rom/Tetris.gb";
+var romPath = "rom/Super Mario Bros. Deluxe (J) [C][!].gbc";
 var mainCanvas = null;
 var soundReady = false;
 
