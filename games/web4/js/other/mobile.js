@@ -1,4 +1,4 @@
-var romPath = "rom/Tetris.gb";
+var romPath = "rom/Megaman.gbc";
 var mainCanvas = null;
 var soundReady = false;
 
