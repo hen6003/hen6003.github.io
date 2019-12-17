@@ -1,4 +1,4 @@
-var romPath = "rom/Tetris.gb";
+var romPath = "rom/Tetris DX (JU) [C][!].gbc";
 var mainCanvas = null;
 var soundReady = false;
 
