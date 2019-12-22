@@ -1,2 +1,4 @@
 name: GBC in school
 markdown: kramdown
+
+theme: jekyll-theme-cayman
