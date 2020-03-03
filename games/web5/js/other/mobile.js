@@ -1,4 +1,4 @@
-var romPath = "rom/Dragon Ball Z - Legendary Super Warriors (E) [C].gbc";
+var romPath = "rom/Tetris DX (JU) [C][!].gbc";
 var mainCanvas = null;
 var soundReady = false;
 
