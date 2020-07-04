@@ -2,10 +2,10 @@ body {
     margin: 60px auto;
     width: 70%;
     font-size: 16px;
-    font-family:'Calibri',sans-serif;
+    font-family:'Fira Code',sans-serif;
 }
 nav ul, footer ul {
-    font-family:'Calibri',sans-serif;
+    font-family:'Fira Code',sans-serif;
     font-size: 16px;
     padding: 0px;
     list-style: none;
@@ -24,15 +24,15 @@ a:hover {
 }
 h1 {
     font-size: 20px;
-    font-family:'Calibri',sans-serif;
+    font-family:'Fira Code',sans-serif;
 }
 h2 {
     font-size: 18px;
-    font-family:'Calibri',sans-serif;
+    font-family:'Fira Code',sans-serif;
 }
 h3 {
     font-size: 16px;
-    font-family:'Calibri',sans-serif;
+    font-family:'Fira Code',sans-serif;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -44,7 +44,7 @@ ul {
 ul.dashed {
   list-style-type: none;
   font-size: 14px;
-  font-family:'Calibri',sans-serif;
+  font-family:'Fira Code',sans-serif;
 }
 ul.dashed > li {
   text-indent: -5px;
