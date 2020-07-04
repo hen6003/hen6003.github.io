@@ -3,6 +3,7 @@ body {
     width: 70%;
     font-size: 16px;
     font-family:'Fira Code',sans-serif;
+    color: #1e1e1e
 }
 nav ul, footer ul {
     font-family:'Fira Code',sans-serif;
