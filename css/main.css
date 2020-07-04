@@ -49,7 +49,7 @@ footer {
     font-size: 14px;
 }
 ul {
-  margin: 0;
+  margin: 2;
 }
 ul.dashed {
   list-style-type: none;
