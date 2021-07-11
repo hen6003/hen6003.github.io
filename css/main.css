@@ -2,11 +2,11 @@ body {
     margin: 60px auto;
     width: 70%;
     font-size: 16px;
-    font-family:'Fira Code',sans-serif;
-    background-color: #1e1e1e
+    font-family:'Iosevka',sans-serif;
+    background-color: #111E2F;
 }
 nav ul, footer ul {
-    font-family:'Fira Code',sans-serif;
+    font-family:'Iosevka',sans-serif;
     font-size: 16px;
     padding: 0px;
     list-style: none;
@@ -18,34 +18,34 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #ac334d;
+    color: #304E41;
 }
 a:hover {
     text-decoration: underline;
-    color: #502b3c
+    color: #1C3E2F;
 }
 p {
     font-size: 16px;
-    font-family:'Fira Code',sans-serif;
-    color: #fe7c8e
+    font-family:'Iosevka',sans-serif;
+    color: #4A7160;
 }
 h1 {
     font-size: 20px;
-    font-family:'Fira Code',sans-serif;
-    color: #fe7c8e
+    font-family:'Iosevka',sans-serif;
+    color: #4A7160;
 }
 h2 {
     font-size: 18px;
-    font-family:'Fira Code',sans-serif;
-    color: #fe7c8e
+    font-family:'Iosevka',sans-serif;
+    color: #4A7160;
 }
 h3 {
     font-size: 16px;
-    font-family:'Fira Code',sans-serif;
-    color: #fe7c8e
+    font-family:'Iosevka',sans-serif;
+    color: #4A7160;
 }
 footer {
-    border-top: 1px solid #ac334d;
+    border-top: 1px solid #0F3123;
     font-size: 14px;
 }
 ul {
@@ -54,7 +54,7 @@ ul {
 ul.dashed {
   list-style-type: none;
   font-size: 14px;
-  font-family:'Fira Code',sans-serif;
+  font-family:'Iosevka',sans-serif;
 }
 ul.dashed > li {
   text-indent: -5px;
@@ -80,20 +80,12 @@ td.toolbar {
     vertical-align: top;
     width: 130px;
     padding: 5px;
-    background-color: #000040;
+    background-color: #1A1331;
 }
 
 .toolbar a {
-    color: white;
     text-decoration: none;
-}
-
-.toolbar a:hover {
-    color: lightblue;
-}
-
-.toolbar a:active {
-    color: yellow;
+    display: block;
 }
 
 .toolbar ul {
