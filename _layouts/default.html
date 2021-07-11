@@ -1,29 +1,37 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="../css/main.css">
-		</head>
-		<body>
-			<nav>
-    				<ul>
-					<li><a href="..">Home</a></li>
-					<li><a href="../games">Games</a></li>
-					<li><a href="../code">Apps/Scripts</a></li>
-    				</ul>
-			</nav>
-			<div class="container">
-			
-			{{ content }}
-			
-			<p></p> <!--spacer-->
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="https://github.com/hen6003/" target="_window">My Github</a></li>
-				<li><a href="https://www.gnu.org/licenses/lgpl-3.0.en.html" target="_window">Under GNU GPL licence</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+
+<div class="w3-sidebar w3-bar-block" style="width:25%">
+  <h3 class="w3-bar-item">Menu</h3>
+<a href="#" class="w3-bar-item w3-button">Link 1</a>
+<a href="#" class="w3-bar-item w3-button">Link 2</a>
+<a href="#" class="w3-bar-item w3-button">Link 3</a>
+</div>
+
+<html>
+  <head>
+	<title>{{ page.title }}</title>
+	<!-- link to main stylesheet -->
+	<link rel="stylesheet" type="text/css" href="../css/main.css">
+  </head>
+  <body>
+	<nav>
+	  <ul>
+		<li><a href="..">Home</a></li>
+		<li><a href="../games">Games</a></li>
+		<li><a href="../code">Apps/Scripts</a></li>
+	  </ul>
+	</nav>
+	<div class="container">
+	  
+	  {{ content }}
+	  
+	  <p></p> <!--spacer-->
+	</div><!-- /.container -->
+	<footer>
+      <ul>
+        <li><a href="https://github.com/hen6003/" target="_window">My Github</a></li>
+		<li><a href="https://www.gnu.org/licenses/lgpl-3.0.en.html" target="_window">Under GNU GPL licence</a></li>
+	  </ul>
+	</footer>
+  </body>
+</html>
