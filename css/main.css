@@ -81,6 +81,7 @@ td.toolbar {
     width: 130px;
     padding: 5px;
     background-color: #000040;
+    position: sticky;
 }
 
 .toolbar a {
@@ -103,25 +104,7 @@ td.toolbar {
 }
 
 td.content {
-	vertical-align: top;
-	padding: 10px;
-	/* For newer browsers and giant displays */
-	max-width: 1400px;
+    vertical-align: top;
+    padding: 10px;
+    max-width: 1400px;
 }
-/*
-.footer {
-	text-align: center;
-	width: 450px;
-	padding: 20px;
-}
-
-.content-header {
-	color: white;
-	font-size: large;
-	text-align: center;
-	background-color: black;
-	padding-bottom: 10px;
-	max-width: 1400px;
-}
-
-*/
