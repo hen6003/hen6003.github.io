@@ -72,3 +72,56 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+/* Toolbar */
+
+td.toolbar {
+    font-size: 80%;
+    vertical-align: top;
+    width: 130px;
+    padding: 5px;
+    background-color: #000040;
+}
+
+.toolbar a {
+    color: white;
+    text-decoration: none;
+}
+
+.toolbar a:hover {
+    color: lightblue;
+}
+
+.toolbar a:active {
+    color: yellow;
+}
+
+.toolbar ul {
+    margin: 0;
+    padding: 15px;
+    list-style-image: url('whitearr.gif');
+}
+
+td.content {
+	vertical-align: top;
+	padding: 10px;
+	/* For newer browsers and giant displays */
+	max-width: 1400px;
+}
+/*
+.footer {
+	text-align: center;
+	width: 450px;
+	padding: 20px;
+}
+
+.content-header {
+	color: white;
+	font-size: large;
+	text-align: center;
+	background-color: black;
+	padding-bottom: 10px;
+	max-width: 1400px;
+}
+
+*/
