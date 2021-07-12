@@ -76,11 +76,12 @@ ul.posts li {
 /* Toolbar */
 
 td.toolbar {
-    font-size: 80%;
+    font-size: 110%;
     vertical-align: top;
     width: 130px;
     padding: 5px;
-    background-color: #052115;
+    background-color: #111E2F;
+    border-radius: 5px;
 }
 
 .toolbar a {
