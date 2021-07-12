@@ -29,6 +29,12 @@ p {
     font-family:'Iosevka',sans-serif;
     color: #4A7160;
 }
+h0 {
+    font-size: 22px;
+    font-family:'Iosevka',sans-serif;
+    color: #4A7160;
+    text-decoration: underline;
+}
 h1 {
     font-size: 20px;
     font-family:'Iosevka',sans-serif;
