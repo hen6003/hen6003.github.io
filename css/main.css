@@ -114,3 +114,10 @@ td.content {
     padding: 10px;
     max-width: 1400px;
 }
+
+banner {
+	border: none;
+	height: 60px;
+	width: 240px;
+	max-width: 100%;
+}
