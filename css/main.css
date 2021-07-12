@@ -1,9 +1,18 @@
+html {
+    width: 100%; 
+    height: 100%;
+}
 body {
     margin: 60px auto;
     width: 70%;
+    height: 100%;
     font-size: 16px;
     font-family:'Iosevka',sans-serif;
     background-color: #07111F;
+}
+table {
+    width: 100%; 
+    height: 100%;
 }
 nav ul, footer ul {
     font-family:'Iosevka',sans-serif;
